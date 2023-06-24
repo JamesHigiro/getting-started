@@ -38,5 +38,5 @@ jobs:
           echo is node installed ?
           node --version
           echo is git installed ?
-          gir --version
+          git --version
           echo test, and deploy your project.
